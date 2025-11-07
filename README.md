@@ -49,6 +49,43 @@ Shizuku allows normal apps to use system APIs directly with elevated privileges 
 
 ---
 
+## 📑 Table of Contents
+
+- [📱 What is Shizuku?](#-what-is-shizuku)
+- [📑 Table of Contents](#-table-of-contents)
+- [📋 App Categories](#-app-categories)
+  - [🎨 Customization](#-customization)
+  - [🔗 Communication](#-communication)
+  - [🎮 Games](#-games)
+  - [🎬 Entertainment](#-entertainment)
+  - [🖊 Input Methods](#-input-methods)
+  - [🏦 Android TV](#-android-tv)
+  - [🔊 Audio](#-audio)
+  - [🤖 Automation](#-automation)
+  - [🛠️ Development Utilities](#-development-utilities)
+  - [💼 Device Owner (DPM)](#-device-owner-dpm)
+  - [🖥️ Display Management](#-display-management)
+  - [📂 File Management](#-file-management)
+  - [📦 Installer & App Stores](#-installer--app-stores)
+  - [🆙 Miscellaneous](#-miscellaneous)
+  - [🌐 Network](#-network)
+  - [🔋 Power Management](#-power-management)
+  - [🛡️ Privacy](#-privacy)
+  - [📊 Productivity](#-productivity)
+  - [⚡ Quick Settings](#-quick-settings)
+  - [📦 Software Management](#-software-management)
+  - [💻 Terminals](#-terminals)
+  - [📱 Vendor-Specific](#-vendor-specific)
+    - [Google Pixel](#google-pixel)
+    - [Samsung OneUI](#samsung-oneui)
+    - [MIUI / HyperOS](#miui--hyperos)
+- [⭐ My Top Picks](#-my-top-picks)
+- [🔗 Resources](#-resources)
+- [🤝 Contributing](#-contributing)
+- [📜 License](#-license)
+
+---
+
 ## 📋 App Categories
 
 <details open>
