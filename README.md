@@ -70,6 +70,18 @@ Personalize your Android experience beyond normal limitations.
 | **CarrierVanityName** | Custom carrier name | GPL-3.0 | [GitHub](https://github.com/nullbytepl/CarrierVanityName) |
 | **Grayscaler** | Selective color apps | GPL-3.0 | [GitHub](https://github.com/C10udburst/Grayscaler) |
 | **Extendroid** ⭐ | Desktop multi-window | GPL-3.0 | [GitHub](https://github.com/legendsayantan/Extendroid) |
+| **LinkSheet** | Restore Android <12 link chooser | Modified MPL-2.0 | [GitHub](https://github.com/LinkSheet/LinkSheet) |
+| **setbox** | Modify system settings via modules | GPL-3.0 | [GitHub](https://github.com/YasserNull/setbox) |
+| **SetEdit** | View/edit system settings | Proprietary | [Play Store](https://play.google.com/store/apps/details?id=com.netvor.settings.database.editor) |
+| **ShizuTools** | Easy-to-use system tools | GPL-3.0 | [GitHub](https://github.com/legendsayantan/ShizuTools) |
+| **SmartspacerPlugins** | Plugins for Smartspacer | GPL-3.0 | [GitHub](https://github.com/KieronQuinn/SmartspacerPlugins) |
+| **Taskbar** | Desktop-style start menu | Apache-2.0 | [F-Droid](https://f-droid.org/packages/com.farmerbb.taskbar/) |
+| **WidgetsPro** | CPU and battery widgets | Proprietary | [GitHub](https://github.com/preethamkmr3/WidgetsPro) |
+| **zFont 3** | Emoji & Font Changer | Proprietary | [Play Store](https://play.google.com/store/apps/details?id=com.htetznaing.zfont2) |
+| **AutoRotate** | Manage screen rotation | GPL-3.0 | [GitHub](https://github.com/eiyooooo/AutoRotate) |
+| **Dawn-Desktop-Addons** | Widgets & live wallpapers | GPL-3.0 | [GitHub](https://github.com/Dawncraft/Dawn-Desktop-Addons) |
+| **GrooveLauncher** | Windows 8 Metro launcher | N/A | [GitHub](https://github.com/groovelauncher/GrooveLauncher) |
+| **MultiLocale** | Add unsupported languages | MIT | [GitHub](https://github.com/Nightdavisao/MultiLocale) |
 
 </details>
 
