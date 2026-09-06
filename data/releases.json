@@ -1201,7 +1201,7 @@
     "source_release_id": 328294817,
     "source_tag": "latest",
     "source_published_at": "2026-05-23T11:51:54Z",
-    "synced_at": "2026-09-06T09:57:06.141459+00:00",
+    "synced_at": "2026-09-06T14:39:46.380364+00:00",
     "assets": [
       {
         "source_asset_id": 520498209,
@@ -2497,6 +2497,22 @@
         "original_filename": "threads-universal-morphe-patches-v445.0.0.46.83.apk",
         "sha256": "3587f4a641122bada768bde8c8d09bc8bb3fb07061d5c34a31491d3042269c7a",
         "file_size": 84069185,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 547046287,
+        "filename": "google-news-universal-morphe-patches-v5.29.0.21022310.apk",
+        "original_filename": "google-news-universal-morphe-patches-v5.29.0.21022310.apk",
+        "sha256": "cd675a25203d6c22fa8eaf1303913de7157d61ac4c0f6f64d798ace113413ac0",
+        "file_size": 16379108,
+        "architecture": "universal"
+      },
+      {
+        "source_asset_id": 547046286,
+        "filename": "google-photos-arm64-v8a-morphe-patches-v7.90.0.973970263.apk",
+        "original_filename": "google-photos-arm64-v8a-morphe-patches-v7.90.0.973970263.apk",
+        "sha256": "68a7b322955cb1467d5b02637a36effb798a20a5ec025b8c5df1dee0b21ec851",
+        "file_size": 90929442,
         "architecture": "arm64-v8a"
       }
     ],
