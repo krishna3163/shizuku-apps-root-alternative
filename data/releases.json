@@ -417,22 +417,22 @@
   },
   "sdmaid-se": {
     "source_repository": "d4rken-org/sdmaid-se",
-    "source_release_id": 376674233,
-    "source_tag": "v2.0.4-rc0",
-    "source_published_at": "2026-08-25T19:53:44Z",
-    "synced_at": "2026-08-26T00:43:45.301974+00:00",
+    "source_release_id": 383686097,
+    "source_tag": "v2.1.0-rc0",
+    "source_published_at": "2026-09-06T19:01:34Z",
+    "synced_at": "2026-09-06T19:47:13.650477+00:00",
     "assets": [
       {
-        "source_asset_id": 529704985,
-        "filename": "eu.darken.sdmse-v2.0.4-rc0-20004000-FOSS-RELEASE.apk",
-        "original_filename": "eu.darken.sdmse-v2.0.4-rc0-20004000-FOSS-RELEASE.apk",
-        "sha256": "8f4cda7394589408d5ee8ccaa8b4ddf9157e798f013d00dc7d2e6add8f117fbe",
-        "file_size": 17805869,
+        "source_asset_id": 547563001,
+        "filename": "eu.darken.sdmse-v2.1.0-rc0-20100000-FOSS-RELEASE.apk",
+        "original_filename": "eu.darken.sdmse-v2.1.0-rc0-20100000-FOSS-RELEASE.apk",
+        "sha256": "abeae5a7c8fc80a31cd1eccb72dad2bcaee431e2bf66fbe80dea6238e665ce0a",
+        "file_size": 18156825,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "sdmaid-se-v2.0.4-rc0",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/sdmaid-se-v2.0.4-rc0"
+    "mirror_release_tag": "sdmaid-se-v2.1.0-rc0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/sdmaid-se-v2.1.0-rc0"
   },
   "droid-ify": {
     "source_repository": "Droid-ify/client",
@@ -1201,7 +1201,7 @@
     "source_release_id": 328294817,
     "source_tag": "latest",
     "source_published_at": "2026-05-23T11:51:54Z",
-    "synced_at": "2026-09-06T14:39:46.380364+00:00",
+    "synced_at": "2026-09-06T19:47:27.682504+00:00",
     "assets": [
       {
         "source_asset_id": 520498209,
