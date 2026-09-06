@@ -782,62 +782,62 @@
   },
   "wg-tunnel": {
     "source_repository": "wgtunnel/wgtunnel",
-    "source_release_id": 383139294,
-    "source_tag": "5.7.0",
-    "source_published_at": "2026-09-05T04:59:39Z",
-    "synced_at": "2026-09-05T09:41:19.841825+00:00",
+    "source_release_id": 383519827,
+    "source_tag": "5.7.1",
+    "source_published_at": "2026-09-06T08:50:07Z",
+    "synced_at": "2026-09-06T09:56:28.710666+00:00",
     "assets": [
       {
-        "source_asset_id": 545385547,
-        "filename": "wgtunnel-fdroid-v5.7.0-arm64.apk",
-        "original_filename": "wgtunnel-fdroid-v5.7.0-arm64.apk",
-        "sha256": "a93c9b3e8da4f89d4335c1189de4d4bf4e06f7eadc8b318fafddf905ed6bbc24",
-        "file_size": 19753358,
+        "source_asset_id": 546958196,
+        "filename": "wgtunnel-fdroid-v5.7.1-arm64.apk",
+        "original_filename": "wgtunnel-fdroid-v5.7.1-arm64.apk",
+        "sha256": "7059398c9db4ffe533a0a802436a41705ec837060214402419cf9f10faf7d7cf",
+        "file_size": 18522883,
         "architecture": "arm64-v8a"
       },
       {
-        "source_asset_id": 545385549,
-        "filename": "wgtunnel-fdroid-v5.7.0-armv7.apk",
-        "original_filename": "wgtunnel-fdroid-v5.7.0-armv7.apk",
-        "sha256": "6f29d5cfb2fefa37de32b83d192852188d232724131f324eeeda2e8c62fe31c6",
-        "file_size": 19309570,
+        "source_asset_id": 546958192,
+        "filename": "wgtunnel-fdroid-v5.7.1-armv7.apk",
+        "original_filename": "wgtunnel-fdroid-v5.7.1-armv7.apk",
+        "sha256": "449351b5e8bd7cfa5b668e92256e15769ee4e17cc70a1b6a1c044e5f8302eccd",
+        "file_size": 18079095,
         "architecture": "armeabi-v7a"
       },
       {
-        "source_asset_id": 545385548,
-        "filename": "wgtunnel-fdroid-v5.7.0.apk",
-        "original_filename": "wgtunnel-fdroid-v5.7.0.apk",
-        "sha256": "cbac714369f80d25f2fc660442d2b456c74feb986c25fe7d50e68da604d779e5",
-        "file_size": 56783099,
+        "source_asset_id": 546958191,
+        "filename": "wgtunnel-fdroid-v5.7.1.apk",
+        "original_filename": "wgtunnel-fdroid-v5.7.1.apk",
+        "sha256": "49f5f983867e695c2d62daa687694bbd561f629c6a067c41527b89122b2c60c4",
+        "file_size": 55552624,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       },
       {
-        "source_asset_id": 545385546,
-        "filename": "wgtunnel-standalone-v5.7.0-arm64.apk",
-        "original_filename": "wgtunnel-standalone-v5.7.0-arm64.apk",
-        "sha256": "035f0142933ff4c2b0d2de2607158c3ae87a26dad380c6b0a6951d4ae0a79543",
-        "file_size": 19776254,
+        "source_asset_id": 546958194,
+        "filename": "wgtunnel-standalone-v5.7.1-arm64.apk",
+        "original_filename": "wgtunnel-standalone-v5.7.1-arm64.apk",
+        "sha256": "460cbf195944880da985da40eb9da3ee49ed9bb1a262077f85760c1b5eef41ca",
+        "file_size": 18529395,
         "architecture": "arm64-v8a"
       },
       {
-        "source_asset_id": 545385550,
-        "filename": "wgtunnel-standalone-v5.7.0-armv7.apk",
-        "original_filename": "wgtunnel-standalone-v5.7.0-armv7.apk",
-        "sha256": "46cbbe13a04e1f568f844f5c63f2e2981e77717145ce19a35decf446e3ce1839",
-        "file_size": 19332466,
+        "source_asset_id": 546958193,
+        "filename": "wgtunnel-standalone-v5.7.1-armv7.apk",
+        "original_filename": "wgtunnel-standalone-v5.7.1-armv7.apk",
+        "sha256": "dde5ad0b366395a54d2befe8e5cccab230071cd13b1c652dc33db5ee6d717aa1",
+        "file_size": 18085607,
         "architecture": "armeabi-v7a"
       },
       {
-        "source_asset_id": 545385545,
-        "filename": "wgtunnel-standalone-v5.7.0.apk",
-        "original_filename": "wgtunnel-standalone-v5.7.0.apk",
-        "sha256": "bc2c3f4bb620aab9ce4868246391fa20a0e0ab3e22515a4f15196b47b537640d",
-        "file_size": 56805995,
+        "source_asset_id": 546958198,
+        "filename": "wgtunnel-standalone-v5.7.1.apk",
+        "original_filename": "wgtunnel-standalone-v5.7.1.apk",
+        "sha256": "5dde9fa6ef5273ebb52499d11c7bcfea7b0fe8e1ebb0e89e53bc9d7eec592b14",
+        "file_size": 55559136,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "wg-tunnel-5.7.0",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/wg-tunnel-5.7.0"
+    "mirror_release_tag": "wg-tunnel-5.7.1",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/wg-tunnel-5.7.1"
   },
   "libchecker": {
     "source_repository": "LibChecker/LibChecker",
@@ -1155,53 +1155,53 @@
   },
   "microg-re": {
     "source_repository": "MorpheApp/MicroG-RE",
-    "source_release_id": 380487160,
-    "source_tag": "7.0.0",
-    "source_published_at": "2026-09-01T12:43:56Z",
-    "synced_at": "2026-09-01T15:47:36.384526+00:00",
+    "source_release_id": 383523795,
+    "source_tag": "7.1.0",
+    "source_published_at": "2026-09-06T09:08:10Z",
+    "synced_at": "2026-09-06T09:56:57.023916+00:00",
     "assets": [
       {
-        "source_asset_id": 539536009,
-        "filename": "microg-7.0.0-arm64-v8a.apk",
-        "original_filename": "microg-7.0.0-arm64-v8a.apk",
-        "sha256": "968cc8bac47efb80e1cb82e9f9df113300464cdbd5ee9bcb1fd2f8fa8b957cc1",
-        "file_size": 44567249,
+        "source_asset_id": 546973478,
+        "filename": "microg-7.1.0-arm64-v8a.apk",
+        "original_filename": "microg-7.1.0-arm64-v8a.apk",
+        "sha256": "46d10cffd2973992ef5b99667fb227ad4e57addd81b81af017de6030e09c67ea",
+        "file_size": 44780615,
         "architecture": "arm64-v8a"
       },
       {
-        "source_asset_id": 539536131,
-        "filename": "microg-7.0.0-noicon-arm64-v8a.apk",
-        "original_filename": "microg-7.0.0-noicon-arm64-v8a.apk",
-        "sha256": "5666edc4d6d5ff020211004d845906e3b2d9b06a0a832f515d2bbe60c58fba19",
-        "file_size": 44567249,
+        "source_asset_id": 546973440,
+        "filename": "microg-7.1.0-noicon-arm64-v8a.apk",
+        "original_filename": "microg-7.1.0-noicon-arm64-v8a.apk",
+        "sha256": "13d8839fc0d4d9fa53bb36ae82d59120141123b05f67f1e41b0843b4019e8579",
+        "file_size": 44780615,
         "architecture": "arm64-v8a"
       },
       {
-        "source_asset_id": 539535709,
-        "filename": "microg-7.0.0-noicon.apk",
-        "original_filename": "microg-7.0.0-noicon.apk",
-        "sha256": "96b540c1a7c165608b709b897ebcad9d7be21afb1bb99484ac7f7c5eb2f2bb3b",
-        "file_size": 112005445,
+        "source_asset_id": 546974066,
+        "filename": "microg-7.1.0-noicon.apk",
+        "original_filename": "microg-7.1.0-noicon.apk",
+        "sha256": "fa8dfc2362d57791a83f539d9d8becfc3c1524537e2d1fabd912fe2010cc77a9",
+        "file_size": 112218811,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       },
       {
-        "source_asset_id": 539535883,
-        "filename": "microg-7.0.0.apk",
-        "original_filename": "microg-7.0.0.apk",
-        "sha256": "ca09fe3306d727af9f8c3bf1eae99759cb1b2741d9c0c243fe8f3bab6938018b",
-        "file_size": 112005445,
+        "source_asset_id": 546974041,
+        "filename": "microg-7.1.0.apk",
+        "original_filename": "microg-7.1.0.apk",
+        "sha256": "48af369639b40401910439098001649fa291e09ced9aec18b61fa654cf904849",
+        "file_size": 112218811,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "microg-re-7.0.0",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/microg-re-7.0.0"
+    "mirror_release_tag": "microg-re-7.1.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/microg-re-7.1.0"
   },
   "morphe-autobuilds": {
     "source_repository": "RookieEnough/Morphe-AutoBuilds",
     "source_release_id": 328294817,
     "source_tag": "latest",
     "source_published_at": "2026-05-23T11:51:54Z",
-    "synced_at": "2026-09-06T02:01:18.394362+00:00",
+    "synced_at": "2026-09-06T09:57:06.141459+00:00",
     "assets": [
       {
         "source_asset_id": 520498209,
